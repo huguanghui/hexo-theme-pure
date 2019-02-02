@@ -5,7 +5,7 @@ menu:
   Categories: categories  # 分类
   Tags: tags  # 标签
   Repository: repository  # github repositories
-  Books: books  # 豆瓣书单
+  # Books: books  # 豆瓣书单
   Links: links  # 友链
   About: about  # 关于
 
@@ -38,7 +38,7 @@ site:
 
 # config
 config:
-  skin: # 主题颜色 theme-black theme-blue theme-green theme-purple
+  skin: theme-blue # 主题颜色 theme-black theme-blue theme-green theme-purple
   layout: main-center # 布局方式 main-left main-center main-right
   toc: true # 是否开启文章章节目录导航
   menu_highlight: false # 是否开启当前菜单高亮显示
@@ -86,11 +86,11 @@ donate:
   enable: true
   # 微信打赏
   wechatpay:
-    qrcode: images/donate/wechatpayimg.png
+    qrcode: images/donate/wechatimg.jpg
     title: 微信支付
   # 支付宝打赏
   alipay: 
-    qrcode: images/donate/alipayimg.png 
+    qrcode: images/donate/alipayimg.jpg
     title: 支付宝
 
 # Share
@@ -195,12 +195,12 @@ profile:
   social:
     links:
       github: https://github.com/huguanghui
-      weibo: http://weibo.com/cofess
-      twitter: https://twitter.com/iwebued
+      weibo: http://weibo.com/guanghuihu
+      # twitter: https://twitter.com/iwebued
       # facebook: /
       # dribbble: /
-      behance: https://www.behance.net/cofess
-      rss: atom.xml
+      # behance: https://www.behance.net/cofess
+      # rss: atom.xml
     link_tooltip: true # enable the social link tooltip, options: true, false
   # My Skills 
   skills:
@@ -216,10 +216,10 @@ profile:
   # My Personal Links
   links:
     Github: https://github.com/huguanghui
-    Blog: http://blog.cofess.com
-    微博: http://weibo.com/cofess
-    花瓣: http://huaban.com/cofess
-    Behance: https://www.behance.net/cofess
+    # Blog: http://blog.cofess.com
+    微博: http://weibo.com/guanghuihu
+    # 花瓣: http://huaban.com/cofess
+    # Behance: https://www.behance.net/cofess
   # My Personal Labels
   labels:
     - 前端
