@@ -102,7 +102,7 @@ share:
 
 # Github
 github: 
-  username: cofess  # github username
+  username: huguanghui  # github username
 
 # Comment
 # Gitment
@@ -187,7 +187,7 @@ profile:
   avatar: images/avatar.jpg
   gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
   author: 胡光辉
-  author_title: 全栈工程师
+  author_title: 软件工程师
   author_description: 个人简介。
   location: Wuhan, China
   follow: https://github.com/huguanghui
@@ -195,7 +195,7 @@ profile:
   social:
     links:
       github: https://github.com/huguanghui
-      weibo: http://weibo.com/guanghuihu
+      weibo: https://weibo.com/guanghuihu
       # twitter: https://twitter.com/iwebued
       # facebook: /
       # dribbble: /
